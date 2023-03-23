@@ -19,6 +19,6 @@ Aluno está relacinado a cursos, podendo estar em diversos cursos;
 Cursos está relacionado a turmas;
 Turmas está relacionado a matéria.
 
-## Dbdiagram
+## Dbdiagrama
 
 ![DBdiagram](dbdiagram.io.png)
